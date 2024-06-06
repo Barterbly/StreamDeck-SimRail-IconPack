@@ -20,7 +20,7 @@ I've created these icons to use them in my Stream Deck (XXL version). In [SimRai
 
 #### Is there possibility to generate different size / format of these icons?
 
-Yes. You can contact me and say what size / format you would like to have.
+Yes. You can contact me and let me know, what size / format you would like to have. If I have free time, I'll generate them.
 
 #### Will there be other icons?
 
