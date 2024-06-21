@@ -18,6 +18,10 @@ I've created these icons to use them in my Stream Deck (XXL version). In [SimRai
 
 833px x 833px, 64-bit depth, PNG
 
+#### Which software did you use?
+
+Inkscape
+
 #### Is there possibility to generate different size / format of these icons?
 
 Yes. You can contact me and let me know, what size / format you would like to have. If I have free time, I'll generate them. The best way is to create thread in Discussion section of this repository.
