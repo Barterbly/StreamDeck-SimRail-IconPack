@@ -3,7 +3,7 @@
 
 StreamDeck icons for SimRail - The Railway Simulator
 
-I've created these icons to use them in my Stream Deck (XXL version). In [SimRail - The Railway Simulator](https://store.steampowered.com/app/1422130/SimRail__The_Railway_Simulator/) you can set your own keybind to some in-game actions, and then set them in Stream Deck. Of course there were no icons pack to match this simulator, so I've created them by myself.
+I've created these icons to use them in my Stream Deck (XXL version). In [SimRail - The Railway Simulator](https://store.steampowered.com/app/1422130/SimRail__The_Railway_Simulator/) you can set your own keybind to some in-game actions, and then set them in Stream Deck. Of course there were no icons pack to match this simulator, so I've created them by myself. Provided icons can be used of course in other hardware / software as well - no restrictions here ;)
 ## Authors
 
 - [@barterbly](https://www.github.com/barterbly)
